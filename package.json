@@ -1,0 +1,18 @@
+{
+  "name": "randomizer",
+  "version": "1.0.0",
+  "description": "A slack bot for data randomization.",
+  "main": "randomizer.js",
+  "author": "Radan Ganchev",
+  "license": "MIT",
+  "dependencies": {
+    "slack-client": "^1.4.1"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.1.2",
+    "grunt": "^0.4.5",
+    "grunt-babel": "^6.0.0",
+    "grunt-execute": "^0.2.2",
+    "load-grunt-tasks": "^3.3.0"
+  }
+}
